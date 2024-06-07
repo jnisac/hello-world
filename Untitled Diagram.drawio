@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-07T20:55:13.225Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="q88wX5zmlOT9C_kBIZll" version="24.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-07T21:09:34.255Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="HmF-9qEGt5EjK-QH2GNS" version="24.4.6" type="github">
   <diagram name="Page-1" id="T8L8l-l0xfYRDc2yPp9P">
-    <mxGraphModel dx="1764" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1213" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -93,6 +93,27 @@
             <mxPoint x="330" y="460" as="sourcePoint" />
             <mxPoint x="380" y="410" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="K7_w2QCnUeSxzUvsQyZu-26" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Perception of&amp;nbsp;&lt;/font&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Immigration&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-family: jk4Szua_Z0j4yDkiBy7d;&quot;&gt;Discrimination&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-family: jk4Szua_Z0j4yDkiBy7d;&quot;&gt;among&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: jk4Szua_Z0j4yDkiBy7d;&quot;&gt;Adolescents&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="250" y="370" width="240" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="K7_w2QCnUeSxzUvsQyZu-27" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;Intersectional Experiences&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;of&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Perceived&amp;nbsp;&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Immigration&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-family: jk4Szua_Z0j4yDkiBy7d;&quot;&gt;Discrimination&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="585" y="371" width="210" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="K7_w2QCnUeSxzUvsQyZu-28" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;Family&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="55" y="227" width="90" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="K7_w2QCnUeSxzUvsQyZu-29" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;Friends/Peers&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="55" y="390" width="90" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="K7_w2QCnUeSxzUvsQyZu-30" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;School/&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;Community&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="55" y="557" width="90" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="K7_w2QCnUeSxzUvsQyZu-31" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;Uniqueness&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;of&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Immigration&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-family: jk4Szua_Z0j4yDkiBy7d;&quot;&gt;Discrimination&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="585" y="137" width="210" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="K7_w2QCnUeSxzUvsQyZu-32" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;Cultural and Contextual&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;Experiences&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;of&amp;nbsp;&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Perceived&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Immigration&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-family: jk4Szua_Z0j4yDkiBy7d;&quot;&gt;Discrimination&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="585" y="607" width="210" height="86" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
